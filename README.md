@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BhogatiSivaSiddharthaReddy
 - 👀 I’m interested in ... Data science, Cloud Computing, Devops
-- 🌱 I’m currently learning ... Git and GitHub
 - 📫 How to reach me ... @bhogatisivasiddharthareddy on Linkedin
 
 <!---
